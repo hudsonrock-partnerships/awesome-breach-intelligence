@@ -50,6 +50,7 @@ A curated list of data breach intelligence tools, OSINT platforms, dark web moni
 - [SpiderFoot](https://www.spiderfoot.net/) - Automated OSINT tool
 - [Hunchly](https://www.hunch.ly/) - Web investigation tool
 - [OSINT Framework](https://osintframework.com/) - Collection of OSINT tools
+- [cl0q](https://cl0q.com) - Open search engine for domain research — 38.5M domains scanned, 24.8M pages indexed, free API tier (30 req/min, 1,000/day), no tracking.
 
 ## Threat Intelligence Platforms
 
